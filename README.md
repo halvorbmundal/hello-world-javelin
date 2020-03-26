@@ -10,6 +10,8 @@ Inside the project folder run
 
 `mvn clean install`
 
+and then
+
 `java -jar target/hello-world-javalin-1.0-SNAPSHOT-jar-with-dependencies.jar`
 
 from your terminal.
