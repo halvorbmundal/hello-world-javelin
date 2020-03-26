@@ -3,7 +3,6 @@ This is a simple project to test javalin .
 
 ## Prerequisites
 * Java 11
-* Kotlin 1.3.70
 * Maven
 
 ## Setup
